@@ -1,2 +1,1 @@
-# Testing
-Testing our firebase hosted simple minimal web-app
+#I will be using this for remote file access and will be pushing my new Projects to this repository
