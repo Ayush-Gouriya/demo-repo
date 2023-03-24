@@ -1,0 +1,4 @@
+1. Fourier analysis with applications
+2. never do anything without practical work involved
+3. Workout out the practical use of pulleys in industrial revilution.
+4. Create a simulation of turtles
