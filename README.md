@@ -1,2 +1,2 @@
 # D-jango
-Testing for making pull request for the first time using this repo
+Here I will put all of the interesting worthy enough projects to show off.
